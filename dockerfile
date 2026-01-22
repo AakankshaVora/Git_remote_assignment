@@ -1,3 +1,4 @@
+#Docker file for Capstone Project
 FROM python:3.10
 WORKDIR /app
 COPY requirements.txt .
